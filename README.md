@@ -1,6 +1,6 @@
 # Gerador de Informações
 
-Este é um projeto web que oferece ferramentas para geração de diferentes documentos e informações, como cartões de crédito, CPF, CNPJ e RG. Foi desenvolvido com HTML, CSS e JavaScript.
+Este é um projeto web que oferece ferramentas para geração de diferentes documentos e informações, como cartões de crédito, CPF, CNPJ e RG para fins de testes. Foi desenvolvido com HTML, CSS e JavaScript.
 
 ## Funcionalidades
 
